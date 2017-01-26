@@ -70,7 +70,7 @@
 }
 
 .ip-header .ip-logo svg path {
-	fill: #1ab7ea;
+	fill: #0C70AA;
 }
 
 .ip-header .ip-loader svg path {
@@ -111,7 +111,7 @@
 
 .title-sub-text {
 	font-weight: 500;
-	color: #1ab7ea;
+	color: #0C70AA;
 	text-align: center;
 	line-height: 1.25;
 	font-size: 20px;

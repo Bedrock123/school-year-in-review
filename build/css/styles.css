@@ -385,7 +385,7 @@ body #cdawrap:hover #cda-remove {
 }
 
 .ip-header .ip-logo svg path {
-    fill: #1ab7ea;
+    fill: #0C70AA;
 }
 
 .ip-header .ip-loader svg path {
@@ -428,7 +428,7 @@ body #cdawrap:hover #cda-remove {
 
 .title-sub-text {
     font-weight: 500;
-    color: #1ab7ea;
+    color: #0C70AA;
     text-align: center;
     line-height: 1.25;
     font-size: 20px;
@@ -891,7 +891,7 @@ body {
 }
 
 body {
-    background-color: #1ab7ea !important;
+    background-color: #0C70AA !important;
 }
 
 #main>.main:first-child {
@@ -926,7 +926,7 @@ body {
 .LA-Rule {
     font-size: 12px;
     border: 3px;
-    border: 1px solid #1AB7EA;
+    border: 1px solid #0C70AA;
     text-align: center;
     width: 50%;
     align-items: center;
@@ -979,7 +979,7 @@ body {
 }
 
 .count {
-    color: #1ab7ea !important;
+    color: #0C70AA !important;
 }
 
 .bold-text {
@@ -1060,7 +1060,7 @@ body {
 
 .circle {
     border-radius: 100%;
-    background: #1ab7ea;
+    background: #0C70AA;
     color: white !important;
     min-width: 300px;
     max-width: 300px;
@@ -2360,7 +2360,7 @@ body {
 }
 
 body {
-    background-color: #1AB7EA;
+    background-color: #0C70AA;
 }
 
 body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2378,7 +2378,7 @@ body.is-loading *, body.is-loading *:before, body.is-loading *:after {
 /* Type */
 
 body {
-    background-color: #1AB7EA;
+    background-color: #0C70AA;
     color: rgba(255, 255, 255, 0.65);
 }
 
@@ -3228,7 +3228,7 @@ header.major h2:after {
 }
 
 .statistics li.style1 {
-    background-color: #1AB7EA;
+    background-color: #0C70AA;
 }
 
 .statistics li.style2 {

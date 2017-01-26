@@ -11,7 +11,7 @@
 }
 
 .ip-main h1 {
-    color: #1ab7ea;
+    color: #0C70AA;
 }
 
 body {
@@ -31,7 +31,7 @@ body {
 }
 
 #third {
-    background-color: #1ab7ea;
+    background-color: #0C70AA;
     border-bottom-left-radius: 34px;
     border-bottom-right-radius: 34px;
     color: white !important;
@@ -60,13 +60,13 @@ body {
 
 #main input[type="submit"], #main input[type="reset"], #main input[type="button"], #main button, #main .button {
     background-color: white;
-    color: #1ab7ea !important;
+    color: #0C70AA !important;
     font-weight: 600;
 }
 
 #main input[type="submit"], #main input[type="reset"], #main input[type="button"], #main button, #main .button:hover {
     background-color: #fafafa;
-    color: #1ab7ea !important;
+    color: #0C70AA !important;
     font-weight: 600;
 }
 
