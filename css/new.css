@@ -10,7 +10,7 @@
     margin: 0 auto;
 }
 
-.ip-main h2 {
+.ip-main h1 {
     color: #1ab7ea;
 }
 
@@ -40,6 +40,8 @@ body {
 .strip-comment {
     color: #fff !important;
     font-size: 20px !important;
+    font-weight: 800;
+    margin-top: 33px;
 }
 
 #strip {
@@ -65,4 +67,8 @@ body {
     background-color: #fafafa;
     color: #1ab7ea !important;
     font-weight: 600;
+}
+
+.center-header {
+    font-size: 50px;
 }

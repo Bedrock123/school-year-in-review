@@ -411,7 +411,7 @@ body #cdawrap:hover #cda-remove {
     padding-top: 160px;
 }
 
-.ip-main h2 {
+.ip-main h1 {
     margin-top: 30px;
     padding: 0.5em 0 0em;
     color: #fff;
@@ -422,7 +422,7 @@ body #cdawrap:hover #cda-remove {
     font-weight: 700;
 }
 
-.ip-main h2 span {
+.ip-main h1 span {
     color: #604ca8;
 }
 
@@ -606,12 +606,12 @@ body #cdawrap:hover #cda-remove {
 
 /* Content animations */
 
-.loaded .ip-main h2, .loaded .ip-main .browser, .loaded .ip-main .browser .box, .loaded .codrops-demos {
+.loaded .ip-main h1, .loaded .ip-main .browser, .loaded .ip-main .browser .box, .loaded .codrops-demos {
     -webkit-animation: animLoadedContent 1s cubic-bezier(0.7, 0, 0.3, 1) both;
     animation: animLoadedContent 1s cubic-bezier(0.7, 0, 0.3, 1) both;
 }
 
-.loaded .ip-main h2, .loaded .ip-main .browser .box:first-child {
+.loaded .ip-main h1, .loaded .ip-main .browser .box:first-child {
     -webkit-animation-delay: 0.1s;
     animation-delay: 0.1s;
 }
@@ -672,7 +672,7 @@ body #cdawrap:hover #cda-remove {
 /* Media queries */
 
 @media screen and (max-width: 45em) {
-    .ip-main h2 {
+    .ip-main h1 {
         font-size: 2.25em;
         font-size: 10vw;
     }
