@@ -35,6 +35,7 @@ body {
     border-bottom-left-radius: 34px;
     border-bottom-right-radius: 34px;
     color: white !important;
+    padding: 2em !important;
 }
 
 .strip-comment {
