@@ -77,5 +77,9 @@ body {
 .statistics p {
     font-size: 13px !important;
     font-weight: 600;
-    x
+}
+
+.demo-2 {
+    width: 70%;
+    margin: 0 auto;
 }
