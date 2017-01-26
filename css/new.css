@@ -1,0 +1,68 @@
+.ip-main {
+    padding-top: 0px;
+}
+
+#main>.main:first-child {
+    background-image: url(../img/background.jpg)
+}
+
+.statistics {
+    margin: 0 auto;
+}
+
+.ip-main h2 {
+    color: #1ab7ea;
+}
+
+body {
+    background-color: #fff !important;
+}
+
+#second {
+    background-color: #fafafa;
+}
+
+.circle {
+    background-color: #400799;
+}
+
+#main>.main {
+    border-top: 0px solid #fff;
+}
+
+#third {
+    background-color: #1ab7ea;
+    border-bottom-left-radius: 34px;
+    border-bottom-right-radius: 34px;
+    color: white !important;
+}
+
+.strip-comment {
+    color: #fff !important;
+    font-size: 20px !important;
+}
+
+#strip {
+    background-image: url('../img/purple_background.png');
+    background-position: center;
+    background-size: cover;
+    ;
+    margin: 0px !important;
+    padding: 15px !important;
+}
+
+.stip-text {
+    margin-bottom: 40px;
+}
+
+#main input[type="submit"], #main input[type="reset"], #main input[type="button"], #main button, #main .button {
+    background-color: white;
+    color: #1ab7ea !important;
+    font-weight: 600;
+}
+
+#main input[type="submit"], #main input[type="reset"], #main input[type="button"], #main button, #main .button:hover {
+    background-color: #fafafa;
+    color: #1ab7ea !important;
+    font-weight: 600;
+}
