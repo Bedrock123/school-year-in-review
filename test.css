@@ -1,4 +1,4 @@
-article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+<style>article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
     display: block;
 }
 
@@ -895,7 +895,7 @@ body {
 }
 
 #main>.main:first-child {
-    background-image: url("https://mem-dev.learningally.org//Portals/6/Images/Hero/background.jpg");
+    background-image: url("../img/background.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
